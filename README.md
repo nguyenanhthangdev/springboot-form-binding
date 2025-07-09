@@ -28,6 +28,6 @@ Dự án này là một ví dụ đơn giản về **Form Binding** trong Spring
 
 ## Cách chạy
 
-git clone https://github.com/nguyenanhthangdev/springboot-form-binding.git
-cd springboot-form-binding
-mvn spring-boot:run
+- git clone https://github.com/nguyenanhthangdev/springboot-form-binding.git
+- cd springboot-form-binding
+- mvn spring-boot:run
