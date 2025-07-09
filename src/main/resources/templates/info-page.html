@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>THÔNG TIN</title>
+</head>
+<body>
+    <h1>THÔNG TIN BẠN VỪA ĐĂNG KÍ</h1>
+    <hr/>
+    <p>- Họ và tên: <span th:text="${u.name}"></span></p>
+    <p>- Email: <span th:text="${u.email}"></span></p>
+    <p>- Giới tính: <span th:text="${u.gender}"></span></p>
+    <p>- Quốc tịnh: <span th:text="${u.nationality}"></span></p>
+</body>
+</html>
